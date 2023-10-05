@@ -18,7 +18,7 @@ This project comprises the following components:
 
 - **Jupyter Notebook**: The project code and detailed analysis can be found in the [Jupyter Notebook](Code/ANN.ipynb).
 
-- **Datasets**: The project folder [Dataset](Dataset/WA_Fn-UseC_-Telco-Customer-Churn.csv) contains relevant datasets used for training and evaluation.
+- **Datasets**: The project folder named [Dataset](Dataset/WA_Fn-UseC_-Telco-Customer-Churn.csv) contains relevant datasets used for training and evaluation.
 
 ## Conclusions
 
